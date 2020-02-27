@@ -1,0 +1,6 @@
+E:\up prog\3\03\03\bin\Debug\03.exe.config
+E:\up prog\3\03\03\bin\Debug\03.exe
+E:\up prog\3\03\03\bin\Debug\03.pdb
+E:\up prog\3\03\03\obj\Debug\03.csprojAssemblyReference.cache
+E:\up prog\3\03\03\obj\Debug\03.exe
+E:\up prog\3\03\03\obj\Debug\03.pdb
